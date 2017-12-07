@@ -1,0 +1,5 @@
+C:\_Git1\resource-server\src\main\java\com\suntecgroup\springoauth2jwt\ResourceServerApplication.java
+C:\_Git1\resource-server\src\main\java\com\suntecgroup\springoauth2jwt\configuration\security\oauth2\JWTConfiguration.java
+C:\_Git1\resource-server\src\main\java\com\suntecgroup\springoauth2jwt\configuration\security\oauth2\ResourceServerConfigurer.java
+C:\_Git1\resource-server\src\main\java\com\suntecgroup\springoauth2jwt\configuration\security\oauth2\CrossOriginFilter.java
+C:\_Git1\resource-server\src\main\java\com\suntecgroup\springoauth2jwt\configuration\security\oauth2\MethodSecurityConfiguration.java
